@@ -25,3 +25,4 @@ jsuser.greeting=function(){
     console.log("hello js user");
 }
 console.log(jsuser.greeting());
+
